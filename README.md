@@ -4,10 +4,10 @@ additional functions to complement the developer tools
 
 ## Tests
 
-# Install dependencies
+### Install dependencies
 
 `npm install`
 
-# Run tests
+### Run tests
 
 `npm test`
