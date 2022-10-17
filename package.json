@@ -1,0 +1,25 @@
+{
+  "name": "devaddions",
+  "version": "1.0.0",
+  "description": "additional functions to complement the developer tools",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/LemassonLouis/devAddIons.git"
+  },
+  "author": "LEMASSON Louis <galou2608@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/LemassonLouis/devAddIons/issues"
+  },
+  "homepage": "https://github.com/LemassonLouis/devAddIons#readme",
+  "devDependencies": {
+    "chai": "^4.3.6",
+    "mocha": "^10.1.0"
+  }
+}
