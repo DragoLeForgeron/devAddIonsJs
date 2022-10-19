@@ -1,6 +1,6 @@
 {
   "name": "devaddionsjs",
-  "version": "3.0.1",
+  "version": "4.0.0",
   "description": "additional functions to complement the developer Javascript tools",
   "type": "module",
   "main": "devAddIonsJs.js",
