@@ -1,5 +1,5 @@
 /**
- * Return if some varaibles are undefined
+ * Return if some varaibles are undefined.
  * @param  {...any} variables - Any variables to know if they all undefined.
  * @returns {Boolean} Boolean
  */
