@@ -11,7 +11,7 @@ describe("Tests areNull()", () => {
         expect(result).to.be.true;
     });
 
-    const badValues = ["", undefined, 0, true, [], {}];
+    const badValues = ["", "null", "undefined", undefined, 0, true, [], [null], [undefined], {}];
 
     for(const value2 of badValues) {
         const value1 = null;
