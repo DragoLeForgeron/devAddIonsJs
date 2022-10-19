@@ -7,6 +7,7 @@ additional functions to complement the developer Javascript tools
 - `isUndefined()`
 - `areUndefined()`
 - `isNull()`
+- `areNull()`
 
 
 ## Tests
