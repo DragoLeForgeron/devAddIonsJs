@@ -5,6 +5,7 @@ additional functions to complement the developer Javascript tools
 ## Available functions
 
 `isUndefined()`
+`areUndefined()`
 
 
 ## Tests
