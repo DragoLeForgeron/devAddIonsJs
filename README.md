@@ -1,5 +1,5 @@
 # devAddIonsJs
-additional functions to complement the developer tools
+additional functions to complement the developer Javascript tools
 
 
 ## Tests
