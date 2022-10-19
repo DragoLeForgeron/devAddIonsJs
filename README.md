@@ -2,6 +2,11 @@
 additional functions to complement the developer Javascript tools
 
 
+## Available functions
+
+`isUndefined()`
+
+
 ## Tests
 
 ### Install dependencies
